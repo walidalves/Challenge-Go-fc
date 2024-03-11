@@ -13,7 +13,7 @@ docker run <seu-user>/fullcycle
 <h2>Build</h2>
 
 ```sh
-docker push walidarnous/dockergofc:tagname 
+docker push walidarnous/dockergofc:latest 
 ```
 
 Docker Hub:
